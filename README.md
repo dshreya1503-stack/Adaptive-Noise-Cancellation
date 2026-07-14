@@ -80,3 +80,4 @@ Python, NumPy (custom autograd + conv), SciPy (WAV I/O), Matplotlib
 - Add `pystoi`/`pesq` for real intelligibility/quality metrics
 - Try masking-based output (predict a ratio mask, multiply with noisy input) instead of direct waveform regression
 - Vectorize `Conv1d` backward further / add GPU support via a real framework once available
+  
